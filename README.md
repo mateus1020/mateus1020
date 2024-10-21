@@ -1,5 +1,5 @@
 ## Hi there 👋
-Me chamo Mateus Assunção, desenvolvedor Front-End. Desenvolvendo meus projetos com: 
+My name is Mateus Assunção, Front-End developer. Developing my projects with: 
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
