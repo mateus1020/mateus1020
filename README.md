@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mateus Assunção, Front-End developer. Developing my projects with: 
+I'm Mateus Assunção, a graduate in Systems Analysis and Development, with a lifelong passion for technology. I work in web development, creating functional interfaces and solutions using HTML, CSS, and JavaScript. I'm constantly learning and always striving to evolve as a professional, ready to embrace new challenges and opportunities that contribute to my growth. :
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
